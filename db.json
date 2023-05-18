@@ -1,0 +1,1451 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "Check",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 2,
+      "email": "Check2",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 3,
+      "email": "Sahil@123",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 4,
+      "email": "sahil@1234",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 5,
+      "email": "pooja@123",
+      "password": "123456"
+    },
+    {
+      "id": 6,
+      "email": "sbhutani911@gmail.com",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 7,
+      "email": "rathoreb853@gmail.com",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 8,
+      "email": "Hello1234@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 9,
+      "email": "123@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 10,
+      "email": "Hello1234@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 11,
+      "email": "hello123@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 12,
+      "email": "rathoreb853@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 13,
+      "email": "rathoreb853@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 14,
+      "email": "sbhutani911@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 15,
+      "email": "rathoreb853@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 16,
+      "email": "qwe@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 17,
+      "email": "asdf@gmail.com",
+      "password": "12344567",
+      "paidMoney": 0
+    },
+    {
+      "id": 18,
+      "email": "asdfg@gmail.com",
+      "password": "1234",
+      "paidMoney": 0
+    },
+    {
+      "id": 19,
+      "email": "asdfg@gmail.com",
+      "password": "123456",
+      "paidMoney": 0
+    },
+    {
+      "id": 20,
+      "email": "rathoreb853@gmail.com",
+      "password": "12345",
+      "paidMoney": 0
+    },
+    {
+      "id": 21,
+      "email": "asdfg@gmail.com",
+      "password": "123454",
+      "paidMoney": 0
+    }
+  ],
+  "fromCountry": [
+    {
+      "id": 1,
+      "from": "Delhi",
+      "to": "New York",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": true
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": true
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "from": "Delhi",
+      "to": "Singapore",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": true
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": true
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "from": "Delhi",
+      "to": "Japan",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "from": "Delhi",
+      "to": "China",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "from": "New York",
+      "to": "Delhi",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "from": "New York",
+      "to": "Singapore",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "from": "New York",
+      "to": "Japan",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "from": "New York",
+      "to": "China",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "from": "China",
+      "to": "Delhi",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "from": "China",
+      "to": "Singapore",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "from": "China",
+      "to": "Japan",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": true
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": true
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "from": "China",
+      "to": "New York",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": true
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": true
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "from": "Singapore",
+      "to": "Delhi",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "from": "Singapore",
+      "to": "China",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "from": "Singapore",
+      "to": "Japan",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "from": "Singapore",
+      "to": "New York",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "from": "Japan",
+      "to": "Delhi",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "from": "Japan",
+      "to": "China",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "from": "Japan",
+      "to": "Singapore",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "from": "Japan",
+      "to": "New York",
+      "timing": "09:00 AM - 05:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "from": "Delhi",
+      "to": "New York",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "from": "Delhi",
+      "to": "Singapore",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "from": "Delhi",
+      "to": "Japan",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "from": "Delhi",
+      "to": "China",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "from": "New York",
+      "to": "Delhi",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "from": "New York",
+      "to": "Singapore",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "from": "New York",
+      "to": "Japan",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "from": "New York",
+      "to": "China",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "from": "China",
+      "to": "Delhi",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "from": "China",
+      "to": "Singapore",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "from": "China",
+      "to": "Japan",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "from": "China",
+      "to": "New York",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "from": "Singapore",
+      "to": "Delhi",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "from": "Singapore",
+      "to": "China",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "from": "Singapore",
+      "to": "Japan",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "from": "Singapore",
+      "to": "New York",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "from": "Japan",
+      "to": "Delhi",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "from": "Japan",
+      "to": "China",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": true
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": true
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "from": "Japan",
+      "to": "Singapore",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "from": "Japan",
+      "to": "New York",
+      "timing": "12:00 PM - 08:00 PM",
+      "ticket_price": 1200,
+      "booking_seats": [
+        {
+          "value": "A1",
+          "status": false
+        },
+        {
+          "value": "A2",
+          "status": false
+        },
+        {
+          "value": "B1",
+          "status": false
+        },
+        {
+          "value": "B2",
+          "status": false
+        },
+        {
+          "value": "C1",
+          "status": false
+        },
+        {
+          "value": "C2",
+          "status": false
+        }
+      ]
+    }
+  ]
+}
